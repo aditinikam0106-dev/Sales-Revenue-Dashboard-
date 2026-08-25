@@ -1,0 +1,10 @@
+# Sales & Revenue Analysis Dashboard
+
+pandas
+openpyxl
+plotly
+dash
+numpy
+xlrd
+sqlalchemy
+dash-bootstrap-components
